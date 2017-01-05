@@ -1,0 +1,22 @@
+{
+  "name": "jan5-warmup",
+  "version": "1.0.0",
+  "description": "A function that handles an array of integers, and a targeted integer.",
+  "main": "script.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindlymatt/sum-of-int.git"
+  },
+  "author": "mcsl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lindlymatt/sum-of-int/issues"
+  },
+  "homepage": "https://github.com/lindlymatt/sum-of-int#readme"
+}
